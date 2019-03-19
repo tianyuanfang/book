@@ -1,0 +1,22 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "电子书练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianyuanfang/book.git"
+  },
+  "author": "tianyuanfang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tianyuanfang/book/issues"
+  },
+  "homepage": "https://github.com/tianyuanfang/book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
